@@ -1,6 +1,6 @@
-- 👋 Hello, my name is Cody!
+Hello, my name is **Cody**!
 
-I’m interested in software and game development and currently learning ReactJS, Ruby on Rails, Django, and other front-end languages.
+I’m interested in software and game development and currently learning **ReactJS, Ruby on Rails, Django,** and other front-end languages. I've worked with **Python, Java, C++, and JavaScript** in the past.
 
 Message me if you have any inquiries or would like to get to know me better!
 
